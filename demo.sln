@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyConsole01", "Content\MyConsole01\MyConsole01.csproj", "{7892E351-D794-43B9-A900-7E562E5C060C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "template files", "template files", "{4EA9134A-7B2D-450E-8C90-4091C38A4EBD}"
+	ProjectSection(SolutionItems) = preProject
+		Content\MyConsole01\.template.config\ide.host.json = Content\MyConsole01\.template.config\ide.host.json
+		marce.demo.con.01.nuspec = marce.demo.con.01.nuspec
+		Content\MyConsole01\.template.config\template.json = Content\MyConsole01\.template.config\template.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7892E351-D794-43B9-A900-7E562E5C060C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7892E351-D794-43B9-A900-7E562E5C060C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7892E351-D794-43B9-A900-7E562E5C060C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7892E351-D794-43B9-A900-7E562E5C060C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A86B699-D2CE-4C54-B1C9-4FAAD9BB8F69}
+	EndGlobalSection
+EndGlobal

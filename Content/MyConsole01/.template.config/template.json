@@ -1,0 +1,14 @@
+{
+	"$schema": "https://json.schemastore.org/template.json",
+	"author": "Marce",
+	"classifications": [ "Console" ],
+	"identity": "marce.console.demo.01",
+	"name": "marce.console.01",
+	"shortName": "marce",
+	"tags": {
+		"type": "project",
+		"language": "C#"
+	},
+	"sourceName": "MyConsole01",
+	"defaultName": "ConsoleAppSuper"
+}
